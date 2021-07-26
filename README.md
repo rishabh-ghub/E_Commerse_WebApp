@@ -1,5 +1,6 @@
 # E_Commerse_WebApp
 
+# Deployed version : https://a2zshopping.herokuapp.com/
 
 ## Step:1 Clone all files into a directory
 
